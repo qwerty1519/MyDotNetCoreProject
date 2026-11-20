@@ -6,6 +6,7 @@ class Program
     {
         Console.WriteLine("Hello, World!");
         GreetUser("User");
+        GreetUser("GitHub");
     }
 
     static void GreetUser(string name)
